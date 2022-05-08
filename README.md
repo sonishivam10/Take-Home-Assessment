@@ -7,7 +7,7 @@
 - Create Virtual env: 
     python3 -m venv 'finnhub'
 - Activate Venv:
-    source finhub/bin/activate
+    source finnhub/bin/activate
 
 Mandatory Steps:
 - Install required modules: 'pip3 install -r requirements.txt'
